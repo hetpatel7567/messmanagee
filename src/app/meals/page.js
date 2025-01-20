@@ -1,5 +1,5 @@
 
-import MealPlan from '../../components/meals/MealPlan';
+import MealPlan from '../../components/meals/mealPlan';
 
 export default function Meals() {
   return (
